@@ -1,6 +1,6 @@
-# Simple Web app to demonstrate Azure 
+# Simple Web app to demonstrate Azure Backup as a Service
 
-Simple web app to demonstrate [Azure Backup](https://docs.microsoft.com/en-us/azure/backup/backup-overview) as a service. 
+Simple web application code to demonstrate [Azure Backup](https://docs.microsoft.com/en-us/azure/backup/backup-overview) as a service. 
 
 Key benetifs of using Azure Backup:
 1. Offload on-premises backup
